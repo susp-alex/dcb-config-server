@@ -1,1 +1,1 @@
-# dcb-config-server
+Repositório destinado a armazenar as configurações de microservices
